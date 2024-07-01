@@ -371,7 +371,7 @@ save  "$derived\\`w'_par_vars.dta" , replace
 
 /* Note that Understanding Society is collected by Calender year. However analyis by School year starting on the 1st September. 
 The Table  below indicaes how people in the first 4 wavees of understanding society are allocated to academic year based on study month and year. Note year in column refers to academic year people should be allocated to. The letters refer to the US wave. 
-					  A	   B 	C 	 D
+		      A	   B 	C     D
            1 jan yr1 2008 2009 2010 2011
            2 feb yr1 2008 2009 2010 2011
            3 mar yr1 2008 2009 2010 2011
